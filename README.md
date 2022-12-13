@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Rajesh Swain</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align ="right" alt="data analyst" width="400" src="https://in.images.search.yahoo.com/search/images;_ylt=AwrKBTNTgZhjOIYTlva7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=data+analyst+gif&fr2=piv-web&type=E210IN826G91646&fr=mcafee#id=0&iurl=https%3A%2F%2Fsteemitimages.com%2F0x0%2Fhttps%3A%2F%2Frrotullcom.files.wordpress.com%2F2017%2F11%2Fsource.gif%3Fw%3D720&action=click">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshswaingithub&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshswaingithub" /> </p>
 
@@ -45,3 +44,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshswaingithub&show_icons=true&locale=en" alt="rajeshswaingithub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshswaingithub&" alt="rajeshswaingithub" /></p>
+
