@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshswaingithub" alt="rajeshswaingithub" /></a> </p>
 
-- 🔭 I’m currently working on **bank loan of customers**
+- 🔭 I’m currently working on **Data Analyst at TSI**
 
 - 🌱 I’m currently learning **data analyst**
 
